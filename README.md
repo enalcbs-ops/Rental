@@ -692,7 +692,7 @@
                     </div>
                     <div class="testimonial-author">
                         <div class="author-img">
-                            <img src="bunga.jpg" alt="Sarah Johnson">
+                            <img src="https://randomuser.me/api/portraits/women/45.jpg" alt="Sarah Johnson">
                         </div>
                         <div class="author-info">
                             <h4>Sarah Johnson</h4>
